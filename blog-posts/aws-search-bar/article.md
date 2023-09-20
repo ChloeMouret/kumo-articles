@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: 'Search your AWS resources blazingly fast ⚡️'
 cover_image: 'https://raw.githubusercontent.com/ChloeMouret/kumo-articles/master/blog-posts/aws-search-bar/assets/cover.png'
 description: 'Use the AWS search bar to find directly any of your resources at a glance'
